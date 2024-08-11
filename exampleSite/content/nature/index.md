@@ -8,5 +8,5 @@ title: Nature
 #type: gallery
 weight: 3
 params:
-  theme: dark
+  theme: light
 ---
