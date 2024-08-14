@@ -1,7 +1,7 @@
 ---
-description: Explore the world through my lens.
+description: photos by josh
 #lastmod: 2023-07-05
-title: photos by josh
+title: Explore the world through my lens.
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
