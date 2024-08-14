@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = "© Josh De Freitas"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
@@ -9,18 +9,18 @@ title = "Gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "Explore the world through my lens."
+  title = "Captured Moments"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "joshdefreitas@gmail.com"
+    name = "Josh De Freitas"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
-    #website = "https://example.com"
+    facebook = "https://www.facebook.com/josh.defreitas2/"
+    instagram = "https://www.instagram.com/__josh.d/"
+    github = "https://github.com/joshdefreitas"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:joshdefreitas@gmail.com"
+    website = "joshdefreitas.info"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 
@@ -46,7 +46,7 @@ title = "Gallery"
 [menu]
   [[menu.footer]]
     name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    url = "https://github.com/joshdefreitas"
     weight = 3
 
 [services]
