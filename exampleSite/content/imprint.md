@@ -7,4 +7,7 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here)
+### Business name
+### Business address
+### Email address
+### Phone number
